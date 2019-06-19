@@ -9,8 +9,11 @@
   "author": "Raymond M Nziku",
   "license": "MIT",
   "devDependencies": {
-    "browser-sync": "^2.26.3",
+    "browser-sync": "^2.26.7",
     "gulp": "^4.0.0",
     "gulp-sass": "^4.0.2"
+  },
+  "dependencies": {
+    "braces": "^3.0.2"
   }
 }
